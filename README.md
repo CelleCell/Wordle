@@ -34,6 +34,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/Ws968YZ' title='Wordle Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://imgur.com/a/7QnN14V' title='Wordle Incorrect Guess Walkthrough' width='' alt='Fail Walkthrough' />
+https://imgur.com/a/7QnN14V
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
